@@ -2,6 +2,6 @@
 # Crypto and Security terminologies both in Japanese/English
 #
 
-integrity			:	Š®‘S«
-data integrity			:	ƒf[ƒ^Š®‘S«
-identity based cryptograpy	:	IDƒx[ƒXˆÃ†
+integrity			:	å®Œå…¨æ€§
+data integrity			:	ãƒ‡ãƒ¼ã‚¿å®Œå…¨æ€§
+identity based cryptograpy	:	IDãƒ™ãƒ¼ã‚¹æš—å·
