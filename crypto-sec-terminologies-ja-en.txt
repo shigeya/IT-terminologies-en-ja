@@ -1,0 +1,7 @@
+#
+# Crypto and Security terminologies both in Japanese/English
+#
+
+integrity			:	完全性
+data integrity			:	データ完全性
+identity based cryptograpy	:	IDベース暗号
