@@ -5,7 +5,14 @@ All of the descriptions are in the form:
 English	   :	Japanese
 
 
+And both of the English and Japanese field contains one or more
+words separated by slashes (/).
+
+
+Please edit all of the files in UTF-8.
+
+
 Files:
 
-crypto-sec-terminologies-ja-en.txt
+- crypto-sec-terminologies-ja-en.txt
 	terminologies on Cryptography and Secrurity
