@@ -4,9 +4,9 @@
 #
 
 data integrity			: データ完全性
-identity based cryptograpy	: IDベース暗号
+ID-based cryptograpy	: IDベース暗号
 integrity			: 完全性
-public key cryptography		: 公開鍵暗号
+public-key cryptography (asymmetric cryptography)	: 公開鍵暗号
 private key   	       		: 秘密鍵
-symmetric cryptography		: 共通鍵暗号 / 秘密鍵暗号 / 共有鍵暗号
-symmetric key / common key	: 共通鍵
+symmetric cryptography (symmetric-key encryption)		: 共通鍵暗号 / 秘密鍵暗号 / 共有鍵暗号
+symmetric-key / common key	: 共通鍵
